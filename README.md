@@ -11,6 +11,4 @@ I'm an indie hacker building lean, useful products for the internet
 
 
 - My website [indieceo](https://indieceo.com) 
-- 🐦 Follow my indie journey on [Twitter/X](https://twitter.com/indieceo)
-  
-Thanks for dropping by! ✌️
+- Follow my journey on [Twitter/X](https://twitter.com/indieceo)

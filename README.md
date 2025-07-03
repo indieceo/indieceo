@@ -1,4 +1,4 @@
-# 👋 Hey, I'm indieceo
+# 👋 Hey
 
 I'm an indie hacker building lean, useful products for the internet 
 

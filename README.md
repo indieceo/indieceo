@@ -10,7 +10,7 @@ I'm an indie hacker building lean, useful products for the internet
       <img src="https://posthyve.com/logo.svg" alt="PostHyve logo" width="40"/>
     </td>
     <td>
-      🐝 <strong><a href="https://posthyve.com">PostHyve</a></strong> – a modern alternative to Buffer & Hootsuite for scheduling social posts with ease.
+      <strong><a href="https://posthyve.com">PostHyve</a></strong> – a modern alternative to Buffer & Hootsuite for scheduling social posts with ease.
     </td>
   </tr>
   <tr>
@@ -18,7 +18,7 @@ I'm an indie hacker building lean, useful products for the internet
       <img src="https://indiesaas.vercel.app/logo.svg" alt="IndieSaaS logo" width="40"/>
     </td>
     <td>
-      🧱 <strong><a href="https://github.com/indieceo/indiesaas">IndieSaaS</a></strong> – a <strong>Next.js</strong> SaaS boilerplate with modern landing page, authentication, and more.
+      <strong><a href="https://github.com/indieceo/indiesaas">IndieSaaS</a></strong> – a <strong>Next.js</strong> SaaS boilerplate with modern landing page, authentication, and more.
     </td>
   </tr>
 </table>
